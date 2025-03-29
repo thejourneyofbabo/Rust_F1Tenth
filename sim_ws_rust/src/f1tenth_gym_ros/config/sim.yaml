@@ -43,7 +43,7 @@ bridge:
 
     # map parameters
     # map_path: '/sim_ws/src/f1tenth_gym_ros/maps/levine'
-    map_path: '/ros2_ws/Rust_F1Tenth_ws/sim_ws_rust/src/f1tenth_gym_ros/maps/levine'
+    map_path: '/ros2_ws/Rust_F1Tenth_ws/sim_ws_rust/src/f1tenth_gym_ros/maps/levine_obs'
     map_img_ext: '.png'
 
     # opponent parameters

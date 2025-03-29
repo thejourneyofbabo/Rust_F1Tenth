@@ -1,5 +1,5 @@
 .cargo
-.lock
+*.lock
 
 # Ignore build directory in all locations
 **/build/
